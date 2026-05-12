@@ -18,10 +18,7 @@ DATA: This dataset comprises about ten(10) years of daily weather observations f
 CONTEXT : Ever wondered if you should carry an umbrella tomorrow? With this dataset, you can predict next-day rain by training classification models on the target variable RainTomorrow.
 
 
-- `Folder1/`: Exercises for Module 1 (Python for Data Science)
-- `Folder1/`: Exercises for Module 1 (Python for Data Science)
-- `Folder1/`: Exercises for Module 1 (Python for Data Science)
-- `Folder1/`: Exercises for Module 1 (Python for Data Science)
+
 
 
 Our project includes :
