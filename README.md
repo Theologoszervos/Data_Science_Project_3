@@ -18,7 +18,14 @@ DATA: This dataset comprises about ten(10) years of daily weather observations f
 CONTEXT : Ever wondered if you should carry an umbrella tomorrow? With this dataset, you can predict next-day rain by training classification models on the target variable RainTomorrow.
 
 
+- `Folders/`
 
+	- `Exploratory Data Analysis (EDA) /`: Basic Data exploration.
+	- `Data Cleanning process/`: Data cleanning process.
+	- `Machine Learning/`: Machine Learning and model predictions.
+	- `Presentaion/`: Project Powerpoint Presentation.
+	- `Dataset/`: Includes Dataset used.
+	- `CODE CONCAT/`: Includes all of the code that was written.
 
 
 Our project includes :
